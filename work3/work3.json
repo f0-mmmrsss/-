@@ -1,0 +1,26 @@
+[
+  {
+    "country": "China",
+    "confirmed": 99047,
+    "recovered": 91649,
+    "population": 1409517397
+  }
+  {
+    "country": "Japan",
+    "confirmed": 365882,
+    "recovered": 290386,
+    "population": 127484450
+  }
+  {
+    "country": "United Kingdom",
+    "confirmed": 3627789,
+    "recovered": 8864,
+    "population": 66181585
+  }
+  {
+    "country": "US",
+    "confirmed": 24995420,
+    "recovered": 0,
+    "population": 324459463
+  }
+]
